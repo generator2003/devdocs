@@ -302,10 +302,10 @@ pages:
           url: /cloud/live/stage-prod-test.html
 
     - label: Optimize deployment
-      url:
+      url: /cloud/deploy/optimize-cloud-deploy.html
       exclude_versions: ['2.0']
       children:
-        - label: SCD strategies
+        - label: SCD configuration strategies
           url: /cloud/deploy/static-content-deployment.html
 
         - label: Smart wizards
